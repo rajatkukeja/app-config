@@ -1,0 +1,10 @@
+build:
+  version: 2.0
+accounts:
+  message: "Welcome to EazyBank accounts related to default APIs"
+  contactDetails:
+    name: "Rajat.default"
+    emai: rajat.default@gmail.com
+  onCallSupport:
+    -(555) 5555-1234
+    -(555) 5555-1345
