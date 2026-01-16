@@ -3,7 +3,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related to Production APIs"
   contactDetails:
-    name: "Rajat.Prod"
+    name: "Rajat.Production"
     emai: rajat.production@gmail.com
   onCallSupport:
     -(555) 5555-1234
